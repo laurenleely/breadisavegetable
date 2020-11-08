@@ -17,7 +17,7 @@ body {
 
   h1 {
     font-family: Consolas;
-    src: url('../docs/resources/Consolas.ttf') format('truetype');
+    src: url('../resources/Consolas.ttf') format('truetype');
     font-size: 50px;
     font-weight: 300;
     font-style: normal;
