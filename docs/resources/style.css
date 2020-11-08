@@ -17,7 +17,7 @@ body {
 
   h1 {
     font-family: 'Consolas';
-    src: url('../resources/Consolas.ttf') format('truetype');
+    
     font-size: 50px;
     font-weight: 300;
     font-style: normal;
@@ -28,9 +28,12 @@ body {
     }
 
 h1, h2, h3, h4, h5, h6, a, p, div, strong {
+    font-family: 'Consolas';
+    src: url('../resources/Consolas.ttf') format('truetype');
     color: rgb(70, 70, 70);
     text-decoration: none;
 }
+
 
 /* Index */
 
