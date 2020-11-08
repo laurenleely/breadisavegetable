@@ -1,4 +1,3 @@
-
 <head>
   <link href="resources/style.css" type="text/css" rel="stylesheet">
 
