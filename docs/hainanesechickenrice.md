@@ -1,4 +1,3 @@
-<link href="resources/style.css" rel="stylesheet"></link>
 
 <head>
 
@@ -10,7 +9,8 @@
 <meta name="keywords" content="bread is a vegetable, recipes, Indian, Chinese, Japanese, Malaysian, Spanish, Thai">
 <meta name="robots" content="nofollow">
 
-<link href="style.css" type="text/css" rel="stylesheet">
+<link href="resources/style.css" rel="stylesheet"></link>
+
 
 </head>
 
