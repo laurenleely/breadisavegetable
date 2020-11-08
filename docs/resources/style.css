@@ -35,7 +35,8 @@ h1, h2, h3, h4, h5, h6, a, p, div, strong {
 /* Index */
 
 p.navbar {
-    font-family: consolas, sans-serif;
+    font-family: Consolas;
+    src: url("../docs/resources/Consolas.ttf") format('truetype');
     font-size: 22px;
     font-weight: 300;
     font-style: normal;
@@ -46,7 +47,8 @@ p.navbar {
 }
 
 div.search {
-    font-family: consolas, sans-serif;
+    font-family: Consolas;
+    src: url("../docs/resources/Consolas.ttf") format('truetype');
     font-size: 22px;
     font-weight: 300;
     font-style: normal;
@@ -91,7 +93,8 @@ div.dish {
 }
 
 div.dishno {
-    font-family: consolas, sans-serif;
+    font-family: Consolas;
+    src: url("../docs/resources/Consolas.ttf") format('truetype');
     font-size: 18px;
     font-weight: 600;
     font-style: normal;
@@ -135,7 +138,8 @@ div.backbutton {
 }
 
 h2 {
-    font-family: consolas, sans-serif;
+    font-family: Consolas;
+    src: url("../docs/resources/Consolas.ttf") format('truetype');
     font-size: 30px;
     font-weight: 300;
     font-style: normal;
