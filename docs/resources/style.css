@@ -16,7 +16,7 @@ body {
   }
 
   h1 {
-    font-family: Consolas;
+    font-family: 'Consolas';
     src: url('../resources/Consolas.ttf') format('truetype');
     font-size: 50px;
     font-weight: 300;
@@ -75,8 +75,7 @@ div.search input[type=text] {
   }
 
 h6 {
-    font-family: 'Consolas';
-    src: url("../breadisavegetable/docs/resources/Consolas.ttf") format('truetype');
+    font-family: 'Courier';
     font-size: 18px;
     font-weight: 600;
     font-style: normal;
