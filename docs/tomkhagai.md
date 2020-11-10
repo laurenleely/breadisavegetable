@@ -1,7 +1,5 @@
 <head>
-  <link href="resources/style.css" type="text/css" rel="stylesheet">
-
-
+<link href="resources/style.css" type="text/css" rel="stylesheet">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <title>tom kha gai | bread is a vagetable</title>
@@ -10,6 +8,7 @@
 <meta name="keywords" content="bread is a vegetable, recipes, Indian, Chinese, Japanese, Malaysian, Spanish, Thai">
 <meta name="robots" content="nofollow">
 
+<link href="style.css" type="text/css" rel="stylesheet">
 
 </head>
 
