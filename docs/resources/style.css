@@ -17,7 +17,7 @@ body {
 
   h1 {
     font-family: 'Consolas';
-    
+    src: url('../resources/fonts/consola.ttf') format('truetype');
     font-size: 50px;
     font-weight: 300;
     font-style: normal;
@@ -29,7 +29,7 @@ body {
 
 h1, h2, h3, h4, h5, h6, a, p, div, strong {
     font-family: 'Consolas';
-    src: url('../resources/Consolas.ttf') format('truetype');
+    src: url('../resources/fonts/consola.ttf') format('truetype');
     color: rgb(70, 70, 70);
     text-decoration: none;
 }
@@ -39,7 +39,7 @@ h1, h2, h3, h4, h5, h6, a, p, div, strong {
 
 p.navbar {
     font-family: 'Consolas';
-    src: url("../breadisavegetable/docs/resources/Consolas.ttf") format('truetype');
+    src: url("../resources/fonts/consola.ttf") format('truetype');
     font-size: 22px;
     font-weight: 300;
     font-style: normal;
@@ -51,7 +51,7 @@ p.navbar {
 
 div.search {
     font-family: 'Consolas';
-    src: url("./breadisavegetable/docs/resources/Consolas.ttf") format('truetype');
+    src: url("../resources/fonts/consola.ttf") format('truetype');
     font-size: 22px;
     font-weight: 300;
     font-style: normal;
@@ -78,7 +78,8 @@ div.search input[type=text] {
   }
 
 h6 {
-    font-family: helvetica;
+    font-family: Consolas;
+    src: url("../resources/fonts/consola.ttf") format('truetype');
     font-size: 18px;
     font-weight: 600;
     font-style: normal;
@@ -97,7 +98,7 @@ div.dish {
 
 div.dishno {
     font-family: Consolas;
-    src: url("../docs/resources/Consolas.ttf") format('truetype');
+    src: url("../resources/fonts/consola.ttf") format('truetype');
     font-size: 18px;
     font-weight: 600;
     font-style: normal;
@@ -142,7 +143,7 @@ div.backbutton {
 
 h2 {
     font-family: Consolas;
-    src: url("../docs/resources/Consolas.ttf") format('truetype');
+    src: url("../resources/fonts/consola.ttf") format('truetype');
     font-size: 30px;
     font-weight: 300;
     font-style: normal;
@@ -157,7 +158,8 @@ h2 {
 }
 
 h3.ingredientstitle {
-    font-family: consolas, sans-serif;
+    font-family: Consolas;
+    src: url("../resources/fonts/consola.ttf") format('truetype');
     font-size: 22px;
     font-weight: 300;
     font-style: normal;
@@ -171,7 +173,8 @@ h3.ingredientstitle {
 }
 
 h3.instructionstitle {
-    font-family: consolas, sans-serif;
+    font-family: Consolas;
+    src: url("../resources/fonts/consola.ttf") format('truetype');
     font-size: 22px;
     font-weight: 300;
     font-style: normal;
@@ -183,7 +186,8 @@ h3.instructionstitle {
 
 h4 {
     font-weight: bold;
-    font-family: consolas, sans-serif;
+    font-family: "Consolas Bold";
+    src: url("../resources/fonts/consolab.ttf") format('truetype');
     font-size: 18px;
     font-weight: 600;
     font-style: normal;
@@ -193,7 +197,8 @@ h4 {
 
   h5 {
     font-weight: 300;
-    font-family: consolas, sans-serif;
+    font-family: Consolas;
+    src: url("../resources/fonts/consola.ttf") format('truetype');
     font-size: 16px;
     font-style: normal;
     letter-spacing: 0.0em;
@@ -220,7 +225,8 @@ p.dishdesc {
 
 strong {
     font-weight: 600;
-    font-family: consolas, sans-serif;
+    font-family: Consolas;
+    src: url("../resources/fonts/consola.ttf") format('truetype');
     font-size: 14px;
     font-style: normal;
     letter-spacing: 0.0em;
