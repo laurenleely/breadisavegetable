@@ -1,5 +1,5 @@
 <head>
-<link href="resources/style.css" type="text/css" rel="stylesheet">
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <title>wild mushroom risotto | bread is a vagetable</title>
