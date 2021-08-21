@@ -1,0 +1,256 @@
+
+
+
+/* Background Colour */
+body {
+    background-color: linen;
+    margin-bottom: 40px;}
+
+
+
+/* Universal */
+
+@viewport {
+    width: device-width ;
+    zoom: 1.0 ;
+  }
+
+  h1 {
+    font-family: consolas, sans-serif;
+    font-size: 50px;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: 0.0em;
+    padding: 40px;
+    text-align: right;
+    text-transform: lowercase;
+    }
+
+h1, h2, h3, h4, h5, h6, a, p, div, strong {
+    color: rgb(70, 70, 70);
+    text-decoration: none;
+}
+
+/* Index */
+
+p.navbar {
+    font-family: consolas, sans-serif;
+    font-size: 22px;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: 0.1em;
+    text-align: right;
+    margin-right: 40px;
+    text-transform: lowercase;
+}
+
+div.search {
+    font-family: consolas, sans-serif;
+    font-size: 22px;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: 0.1em;
+    text-align: right;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    text-transform: lowercase;
+    background: none;
+}
+
+div.search input[type=text] {
+    color: rgb(70, 70, 70);
+    font-size: 22px;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: 0.1em;
+    padding: 0;
+    margin: 0;
+    text-align: right;
+    text-transform: lowercase;
+    background: none;
+    border: none;
+  }
+
+h6 {
+    font-family: consolas, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 0.1em;
+    line-height: 120%;
+    margin-right: 40px;
+    margin-top: 20px;
+    margin-bottom:10px;
+    text-align: right;
+}
+
+div.dish {
+    text-align: right;
+    margin-right: 40px;
+}
+
+div.dishno {
+    font-family: consolas, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 0.1em;
+    line-height: 120%;
+    display: inline;
+    margin-right: 10px;
+}
+
+a.dishname {
+    font-family: adobe devanagari, serif;
+    font-size: 22px;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: 0.08em;
+    line-height: 120%;
+    display: inline;
+}
+
+a:hover {
+    font-weight: 600;
+}
+
+a:active {
+    font-weight: 600;
+}
+
+
+
+/* Recipe Page */
+
+div.backbutton {
+    font-family: consolas, sans-serif;
+    font-size: 30px;
+    text-align: right;
+    padding-top: 20px;
+    padding-right: 20px;
+    position: fixed;
+    top: 40px;
+    right: 20px;
+}
+
+h2 {
+    font-family: consolas, sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: 0.0em;
+    padding-bottom: 40px;
+    padding-right: 20px;
+    text-align: right;
+    text-transform: lowercase;
+    position: fixed;
+    top: 80px;
+    right: 20px;
+}
+
+h3.ingredientstitle {
+    font-family: consolas, sans-serif;
+    font-size: 22px;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: 0.0em;
+    padding-right: 20px;
+    text-align: right;
+    text-transform: lowercase;
+    position: fixed;
+    top: 160px;
+    right: 20px;
+}
+
+h3.instructionstitle {
+    font-family: consolas, sans-serif;
+    font-size: 22px;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: 0.0em;
+    padding-left: 40px;
+    text-align: left;
+    text-transform: lowercase;
+    padding-top: 160px;
+}
+
+h4 {
+    font-weight: bold;
+    font-family: consolas, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 0.0em;
+    line-height: 100%;
+  }
+
+h5 {
+    font-weight: 300;
+    font-family: consolas, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    letter-spacing: 0.0em;
+    line-height: 70%;
+    margin-left: 40px;
+}
+
+p {
+    font-family: adobe devanagari, serif;
+    font-size: 18px;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: 0.05em;
+    text-transform: lowercase;
+    margin-right: 20px;
+    text-align: right;
+}
+
+p.dishdesc {
+    text-align: left;
+    margin-left: 40px;
+    max-width: 700px;
+}
+
+strong {
+    font-weight: 600;
+    font-family: consolas, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    letter-spacing: 0.0em;
+    line-height: 160%;
+  }
+
+p.serves {
+    margin-right: 20px;
+    text-align: right;
+    position: fixed;
+    top: 200px;
+    max-width: 700px;
+    font-style: italic;
+    right: 20px;
+}
+
+p.ingredientslist {
+    margin-right: 20px;
+    text-align: right;
+    position: fixed;
+    top: 230px;
+    right: 20px;
+}
+
+p.instructionsdesc {
+    margin-left: 40px;
+    text-align: left;
+    max-width: 40%;
+}
+
+a.sidelink {
+    font-family: adobe devanagari, serif;
+    font-size: 18px;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: 0.08em;
+    line-height: 120%;
+    display: inline;
+    text-decoration: underline;
+}
