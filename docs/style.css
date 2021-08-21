@@ -17,10 +17,10 @@ body {
 
 @font-face {
     font-family: 'consolas';
-    src: url('resources/fonts/consola.ttf') format('ttf'),
-         url('resources/fonts/consolab.ttf') format('ttf'),
-         url('resources/fonts/consolai.ttf') format('ttf'),
-         url('resources/fonts/consolaz.ttf') format('ttf');
+    src: url('resources/fonts/consola.ttf') format('truetype'),
+         url('resources/fonts/consolab.ttf') format('truetype'),
+         url('resources/fonts/consolai.ttf') format('truetype'),
+         url('resources/fonts/consolaz.ttf') format('truetype');
   }
 
   h1 {
